@@ -1,0 +1,22 @@
+* {
+    background-color: lightslategray;
+}
+
+h1, h3 {
+    color: rgb(179, 41, 41);
+    font-family: "Brush Script MT", Times, serif;
+}
+
+h3 {
+    color: black;
+}
+
+.small-para, ul, ol {
+    max-width: 300px;
+    font-family: "Courier New", "Lucida Console", Times;
+}
+
+img {
+    border-radius: 8px;
+    width: 200px;
+}
